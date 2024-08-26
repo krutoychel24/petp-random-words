@@ -5,21 +5,19 @@ Project Structure
 index.html - The main HTML file that contains the structure of the webpage.
 script.js - The JavaScript file that handles the button click event and updates the content on the page.
 styles.css - The CSS file that provides styles for the button and output area.
+
+
 Getting Started
 To get started with this project, follow these steps:
 
-Clone the Repository
-
-bash
-Копировать код
+1.Clone the Repository
 git clone https://github.com/yourusername/javascript-button-example.git
 cd javascript-button-example
-Open the Project
 
+2.Open the Project
 Open index.html in your favorite web browser.
 
-Interact with the Button
-
+3.Interact with the Button
 Click the button on the page to see the result. The content of the <div> below the button will change based on the JavaScript logic.
 
 Files Overview
