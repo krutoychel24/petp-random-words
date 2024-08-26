@@ -3,7 +3,7 @@ function displayMessage() {
     let message = '';
 
     if (test > 3) {
-        message = 'lol',"kek";
+        message = 'lol';
     } else {
         message = 'kek';
     }
